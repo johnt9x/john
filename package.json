@@ -1,0 +1,27 @@
+{
+  "name": "john",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testjohn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnt9x/john.git"
+  },
+  "keywords": [
+    "john"
+    "npm",
+    "github",
+    "project",
+    "javascript",
+    "library"
+  ],
+  "author": "john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnt9x/john/issues"
+  },
+  "homepage": "https://github.com/johnt9x/john#readme"
+}
