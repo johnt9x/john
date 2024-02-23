@@ -4,21 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "testjohn"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnt9x/john.git"
   },
-  "keywords": [
-    "john"
-    "npm",
-    "github",
-    "project",
-    "javascript",
-    "library"
-  ],
-  "author": "john",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/johnt9x/john/issues"
