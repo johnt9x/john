@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/johnt9x/john/issues"
   },
-  "homepage": "https://github.com/johnt9x/john#readme"
+  "homepage": "https://github.com/johnt9x/john#readme",
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
 }
